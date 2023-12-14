@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is compatible with Silverlight-->
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="Capa_1" Width="394.41015" Height="381.57653" Canvas.Left="0" Canvas.Top="0">
+  <Canvas.RenderTransform>
+    <TranslateTransform X="0" Y="0"/>
+  </Canvas.RenderTransform>
+  <Canvas.Resources/>
+  <!--Unknown tag: sodipodi:namedview-->
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path147" Fill="#FFFFFFFF" Data="m 357.92105 151.57238 -41.321 -33.677 V 64.036382 c 0 -6.065 -4.935 -11 -11 -11 h -26 c -6.065 0 -11 4.935 -11 11 v 14.737 l -55.213 -44.999 c -3.994 -3.254 -9.258 -5.047 -14.822 -5.047 -5.542 0 -10.781 1.782 -14.753 5.019 L 39.279049 151.57138 c -6.567 5.351 -6.173 10.012 -5.354 12.314 0.817 2.297 3.448 6.151 11.884 6.151 h 19.791 v 154.947 c 0 11.058 8.972 20.053 20 20.053 h 62.500001 c 10.935 0 19.5 -8.809 19.5 -20.053 v -63.541 c 0 -5.446 5.005 -10.405 10.5 -10.405 h 42 c 5.238 0 9.5 4.668 9.5 10.405 v 63.541 c 0 10.87 9.388 20.053 20.5 20.053 h 61.5 c 11.028 0 20 -8.996 20 -20.053 v -154.947 h 19.791 c 8.436 0 11.066 -3.854 11.884 -6.151 0.819 -2.302 1.213 -6.963 -5.354 -12.313 z"/>
+  <Canvas Name="g149">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g151">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g153">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g155">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g157">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g159">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g161">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g163">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g165">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g167">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g169">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g171">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g173">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g175">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+  <Canvas Name="g177">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="33.479049" Y="21.761382"/>
+    </Canvas.RenderTransform>
+  </Canvas>
+</Canvas>

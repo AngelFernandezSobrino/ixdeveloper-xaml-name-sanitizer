@@ -1,0 +1,15 @@
+{
+  "name": "ixdeveloper-xaml-name-sanitizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "nexe parser.js -o build/parser.exe"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nexe": "^4.0.0-rc.1"
+  }
+}
